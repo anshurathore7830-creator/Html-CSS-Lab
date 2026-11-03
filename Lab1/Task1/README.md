@@ -17,8 +17,8 @@ Program / Queries / Commands:
 mkdir html-lab
 cd html-lab
 git init
-git config --local user.name "Ayush-gangwar-09"
-git config --local user.email "gangwarayush032@gmail.com"
+git config --local user.name "Anushka rathore"
+git config --local user.email "anshurathore7830@email.com"
 git config user.name
 git config user.email
 
